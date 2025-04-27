@@ -1,0 +1,7 @@
+# Ignore all images that are not used
+/images/unused
+/images/whatsapp/unused
+
+#Ignore unused files
+generic.html
+elements.html
